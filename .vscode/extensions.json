@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "austincummings.razor-plus",
+    "editorconfig.editorconfig",
+    "formulahendry.dotnet-test-explorer",
+    "fudge.auto-using",
+    "jesschadwick.nuget-reverse-package-search",
+    "k--kato.docomment",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode.csharp",
+  ]
+}
